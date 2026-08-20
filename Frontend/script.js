@@ -1,4 +1,4 @@
-const API_URL = "https://ai-expense-analyzer-xtgt.onrender.com/";
+const API_URL = "https://ai-expense-analyzer-xtgt.onrender.com";
 
 let expenses = [];
 let expenseChart;
